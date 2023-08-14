@@ -77,7 +77,6 @@ s = "Python syntax highlighting"
 print s
 ```
  
-```
 No language indicated, so no syntax highlighting. 
 But let's throw in a <b>tag</b>.
 
@@ -101,6 +100,10 @@ Quote break.
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
 
 <dl>
+
+[![Now in Android: 55]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    // Video Link
   <dt>Definition list</dt>
   <dd>Is something people use sometimes.</dd>
   <dt>Markdown in HTML</dt>
