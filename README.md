@@ -1,8 +1,15 @@
 ### Hi there 👋
 
-- 🔭 My portifolio https://github.com/MarcosEduardoJr/Arrudeia
-- 📫 How to reach me: [...](https://www.linkedin.com/in/marcosedu/) | marcosedudev@gmail.com | +55 (81) 9 9679 - 5183
+
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/marcosedu/) | marcosedudev@gmail.com | +55 (81) 9 9679 - 5183
 - ⚡ Fun fact: I'm a musician, I love hiking and I have a dog and a cat
+- 🔭 My portifolio https://github.com/MarcosEduardoJr/Arrudeia
+
+   <img src="https://github.com/MarcosEduardoJr/Arrudeia/blob/main/showcase/onboarding" width="150"></img>
+ <img src="https://github.com/MarcosEduardoJr/Arrudeia/blob/main/showcase/home.png" width="150"></img>
+ <img src="https://github.com/MarcosEduardoJr/Arrudeia/blob/main/showcase/trip_detail.png" width="150"></img>
+ <img src="https://github.com/MarcosEduardoJr/Arrudeia/blob/main/showcase/arrudeia.png" width="150"></img>
+ <img src="https://github.com/MarcosEduardoJr/Arrudeia/blob/main/showcase/profile.png" width="150"></img>
 <!--
 **MarcosEduardoJr/MarcosEduardoJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
