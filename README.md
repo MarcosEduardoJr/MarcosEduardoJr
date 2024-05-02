@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 My portifolio https://github.com/MarcosEduardoJr/Arrudeia
+- 📫 How to reach me: [...](https://www.linkedin.com/in/marcosedu/) | marcosedudev@gmail.com | +55 (81) 9 9679 - 5183
+- ⚡ Fun fact: I'm a musician, I love hiking and I have a dog and a cat
 <!--
 **MarcosEduardoJr/MarcosEduardoJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,12 +15,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
--->
 
-# H1
-## H2
-### H3
-#### H4
+ 
 ##### H5
 ###### H6
 Alternatively, for H1 and H2, an underline-ish style:
@@ -112,3 +111,4 @@ Quote break.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+-->
