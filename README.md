@@ -1,11 +1,17 @@
-### Hi there 👋
+### 👋 Hi, I’m Marcos Eduardo
+    
+ ⚡  Skills:  Kotlin | Jetpack | GraphQl | Compose | CI/CD | Continuous Integration | Jacoco | Detekt | Unit Test
+
+* I have 11 years of experience as a developer and 7 years as an Android developer.
+* I co-created and partnered at a startup that taught me how to understand the user's needs and preferences.
+* The apps that I worked on were Bank, E-commerce, and school.
 
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/marcosedu/) | marcosedudev@gmail.com | +55 (81) 9 9679 - 5183
-- ⚡ Fun fact: I'm a musician, I love hiking and I have a dog and a cat
-- 🔭 My portifolio https://github.com/MarcosEduardoJr/Arrudeia
+ 1. 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/marcosedu/) | marcosedudev@gmail.com | +55 (81) 9 9679 - 5183
+2.  🌱 Fun fact: I'm a musician, I love hiking and I have a dog and a cat
+3.  🔭 My portifolio https://github.com/MarcosEduardoJr/Arrudeia
 
-   <img src="https://github.com/MarcosEduardoJr/Arrudeia/blob/main/showcase/onboarding" width="150"></img>
+ <img src="https://github.com/MarcosEduardoJr/Arrudeia/blob/main/showcase/onboarding" width="150"></img>
  <img src="https://github.com/MarcosEduardoJr/Arrudeia/blob/main/showcase/home.png" width="150"></img>
  <img src="https://github.com/MarcosEduardoJr/Arrudeia/blob/main/showcase/trip_detail.png" width="150"></img>
  <img src="https://github.com/MarcosEduardoJr/Arrudeia/blob/main/showcase/arrudeia.png" width="150"></img>
